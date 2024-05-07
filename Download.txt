@@ -4,6 +4,8 @@ File over 25mb download link here
 	https://drive.google.com/file/d/1Xm2sLrrus9lNVdRiz8BMdZJltHmOxAKD/view?usp=sharing
 	↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
+*MAY OR MAY NOT WORK DEPENDING ON GAME BUILD SOME GAME BUILDS NO LONGER SUPPORT 'AUDIO_WAVEPACK' 
+
 Includes the following.
 Realistic pistol and combat pistol sound which you can choose from.
 AP Pistol Sounds
